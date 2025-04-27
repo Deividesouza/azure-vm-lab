@@ -10,7 +10,7 @@ Aplicar conceitos de configuração de rede, sistema operacional e acesso remoto
 Aprender a documentar processos técnicos de maneira clara e organizada.
 Utilizar o GitHub para compartilhar documentação.
 
-##Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 
 Microsoft Azure (Portal Web)
 Git e GitHub
