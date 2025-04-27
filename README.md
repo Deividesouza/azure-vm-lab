@@ -19,39 +19,43 @@ Markdown para documentação
 ## Passo a Passo da Criação da VM
 
 1. Acessar o Portal do Azure
-Entrar no Microsoft Azure Portal.
+   
+* Entrar no Microsoft Azure Portal.
 
 2. Criar um Novo Recurso
-Selecionar Máquina Virtual > Adicionar.
+
+*  Selecionar Máquina Virtual > Adicionar.
 
 3. Configurar Informações Básicas
 
-Nome da VM
 
-Região
+* Nome da VM
 
-Tipo de imagem (Windows Server, Ubuntu, etc.)
 
-Tamanho da máquina (tipo de instância)
+* Região
+
+* Tipo de imagem (Windows Server, Ubuntu, etc.)
+
+* Tamanho da máquina (tipo de instância)
 
 4. Configurar a Conta de Administrador
 
-Definir nome de usuário e senha (ou chave SSH se for Linux).
+* Definir nome de usuário e senha (ou chave SSH se for Linux).
 
 5. Configurar Rede
 
-Aceitar configurações padrão ou ajustar conforme necessário.
+* Aceitar configurações padrão ou ajustar conforme necessário.
 
 6. Revisar e Criar
 
-Verificar todas as configurações e clicar em Criar.
+* Verificar todas as configurações e clicar em Criar.
 
 7. Acessar a Máquina Virtual
 
-Windows: Acesso via RDP.
+* Windows: Acesso via RDP.
 
-Linux: Acesso via SSH.
+* Linux: Acesso via SSH.
 
 8. Encerrar Recursos
 
-Após os testes, desligar e excluir a VM para evitar cobranças.
+* Após os testes, desligar e excluir a VM para evitar cobranças.
