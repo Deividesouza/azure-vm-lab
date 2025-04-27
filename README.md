@@ -59,3 +59,5 @@ Markdown para documentação
 8. Encerrar Recursos
 
 * Após os testes, desligar e excluir a VM para evitar cobranças.
+
+  ![Criação da VM](./images/vm-criacao.png)
